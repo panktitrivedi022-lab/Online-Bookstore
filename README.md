@@ -1,21 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+📚 Online Bookstore
 
-# Run and deploy your AI Studio app
+A modern Android application built with Kotlin that allows users to browse books, search for titles, manage their cart, and enjoy a smooth online bookstore experience.
 
-This contains everything you need to run your app locally.
+✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/d6b8fece-7d86-4be6-aa80-a5abfc6c6af5
+- 📖 Browse books
+- 🔍 Search books
+- 👤 User authentication
+- 🛒 Shopping cart
+- ❤️ Wishlist
+- 📱 Clean and user-friendly interface
 
-## Run Locally
+🛠️ Tech Stack
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+- Language: Kotlin
+- IDE: Android Studio
+- Build Tool: Gradle
+- Version Control: Git & GitHub
 
+🚀 Getting Started
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+1. Clone this repository.
+2. Open the project in Android Studio.
+3. Sync Gradle.
+4. Run the app on an Android emulator or physical device.
+
+📂 Project Structure
+
+app/
+assets/
+gradle/
+
+🎯 Future Improvements
+
+- Online payment integration
+- Order history
+- Book ratings and reviews
+- Dark mode
+- Push notifications
+
+👩‍💻 Developer
+
+Pankti Trivedi
+
+Computer Engineering Student
+
+⭐ Support
+
+If you like this project, please consider giving it a ⭐ on GitHub.
