@@ -1,0 +1,6 @@
+{
+  "name": "Book Store",
+  "description": "A high-fidelity adaptive online book store application built with Jetpack Compose, containing secure user registration and login, catalog search, shopping cart, orders, wishlist, user dashboards, and an administrator panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
